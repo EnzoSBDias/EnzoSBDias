@@ -2,10 +2,6 @@
   <img src="https://github.com/EnzoSBDias/EnzoSBDias/blob/main/data.jpg?raw=true" alt="Banner sobre Ciência de Dados">
 </p>
 
-<p align="center">
-  <img src="https://source.unsplash.com/1200x400/?technology,data" alt="Banner sobre Ciência de Dados">
-</p>
-
 <h1 align="center">Olá! 👋 Eu sou Enzo Dias</h1>
 <h3 align="center">Cientista de Dados | Machine Learning | Visualização de Dados | Business Intelligence</h3>
 
