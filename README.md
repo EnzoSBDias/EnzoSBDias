@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Olá! 👋 Eu sou Enzo Dias</h1>
-<h3 align="center">Cientista de Dados | Machine Learning | Visualização de Dados | Business Intelligence</h3>
+<h3 align="center">Ciência de Dados | Machine Learning | Visualização de Dados | Business Intelligence</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/seuusuario?style=social" alt="Seguidores">
